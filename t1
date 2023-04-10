@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Ярослав Савенко</title>
+</head>
+<body>
+	<header>
+		<h1>Ярослав Савенко</h1>
+	</header>
+
+	<nav>
+		<ul>
+			<li><a href="#">Услуга 1</a></li>
+			<li><a href="#">Услуга 2</a></li>
+			<li><a href="#">Услуга 3</a></li>
+		</ul>
+	</nav>
+
+	<main>
+		<section>
+			<h2>Услуга 1</h2>
+			<p>Описание услуги 1.</p>
+		</section>
+
+		<section>
+			<h2>Услуга 2</h2>
+			<p>Описание услуги 2.</p>
+		</section>
+
+		<section>
+			<h2>Услуга 3</h2>
+			<p>Описание услуги 3.</p>
+		</section>
+	</main>
+
+	<footer>
+		<p>Контактная информация</p>
+	</footer>
+</body>
+</html>
